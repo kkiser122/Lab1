@@ -46,5 +46,20 @@ ul {
   p {
       margin:20px;
   }
-  
+  .blog-post {
+      margin:10px;
+      background-color: white;
+      border-style: solid;
+      border-color: rgb(90, 90, 90);
+      padding: 10px;
+      border-width: 3px;
+      border-radius: 10px;  
+float: left;
+  }
+img {
+    clear: both;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+ } 
  
